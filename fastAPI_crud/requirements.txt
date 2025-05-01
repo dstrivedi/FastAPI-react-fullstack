@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+pydantic
+fastapi-cors
+
+# pip install -r requirements.txt 
